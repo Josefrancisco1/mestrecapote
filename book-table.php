@@ -39,33 +39,33 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Restaurant <em>Website</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>Restaurant <em>Website</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home
+                    <a class="nav-link" href="index.php">Home
                       <span class="sr-only">(current)</span>
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="book-table.html">Book A Table</a></li>
+                <li class="nav-item active"><a class="nav-link" href="book-table.php">Book A Table</a></li>
 
-                <li class="nav-item"><a class="nav-link" href="menu.html">Menu</a></li>
+                <li class="nav-item"><a class="nav-link" href="menu.php">Menu</a></li>
 
-                <li class="nav-item dropdown active">
+                <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
                     
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="about-us.html">About Us</a>
-                      <a class="dropdown-item active" href="blog.html">Blog</a>
-                      <a class="dropdown-item" href="testimonials.html">Testimonials</a>
+                      <a class="dropdown-item" href="about-us.php">About Us</a>
+                      <a class="dropdown-item" href="blog.php">Blog</a>
+                      <a class="dropdown-item" href="testimonials.php">Testimonials</a>
                     </div>
                 </li>
                 
-                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -78,123 +78,82 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>Lorem ipsum dolor sit amet</h4>
-              <h2>Blog</h2>
+              <h4>Estamos disponiveis para Encomendas & pedidos</h4>
+              <h2>Mestre Capote</h2>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="products">
+    <div class="send-message">
       <div class="container">
         <div class="row">
-          <div class="col-md-8">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Aperiam modi voluptatum fuga officiis cumque</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-4-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-5-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-6-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.html">Aperiam modi voluptatum fuga officiis cumque</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-12">
-                <ul class="pages">
-                  <li><a href="#">1</a></li>
-                  <li class="active"><a href="#">2</a></li>
-                  <li><a href="#">3</a></li>
-                  <li><a href="#">4</a></li>
-                  <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
-                </ul>
-              </div>
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Registrar pedidos</h2>
             </div>
           </div>
-
-          <div class="col-md-4">
+          <div class="col-md-8">
             <div class="contact-form">
-              <div class="form-group">
-                <h5>Blog Search</h5>
-              </div>
+              <form id="contact" action="" method="post">
+                <div class="row">
+                  <!--
+                  <div class="col-sm-6">
+                    <fieldset>
+                      <input name="name" type="text" class="form-control" id="date" placeholder="16.06.2020" required="">
+                    </fieldset>
+                  </div>
 
-              <div class="row">
-                <div class="col-8">
-                  <input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
+                  <div class="col-sm-6">
+                    <fieldset>
+                      <input name="name" type="text" class="form-control" id="date" placeholder="09:00" required="">
+                    </fieldset>
+                  </div>-->
+
+                  <div class="col-sm-6">
+                    <fieldset>
+                      <select class="form-control">
+                       <option value="">Quantidade</option>
+                       <option value="">1</option>
+                       <option value="">2</option>
+                       <option value="">3</option>
+                       <option value="">4</option>
+                       <option value="">5</option>
+                       <option value="">6</option>
+                       <option value="">7</option>
+                      </select>
+                    </fieldset>
+                  </div>
+
+                  <div class="col-sm-6">
+                    <fieldset>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Nome completo" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <fieldset>
+                      <input name="email" type="text" class="form-control" id="email" placeholder="Endereço de E-Mail" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Descrição" required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button type="submit" id="form-submit" class="filled-button">Submeter</button>
+                    </fieldset>
+                  </div>
                 </div>
-
-                <div class="col-4">
-                  <button class="filled-button" type="button">Go</button>
-                </div>
-              </div>
+              </form>
             </div>
+          </div>
+          <div class="col-md-4">
+            <img src="assets/images/team_01.jpg" class="img-fluid" alt="">
 
-            <div class="form-group">
-              <h5>Lorem ipsum dolor sit amet</h5>
-            </div>
-
-            <p><a href="blog-details.html">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></p>
-            <p><a href="blog-details.html">Et animi voluptatem, assumenda enim, consectetur quaerat!</a></p>
-            <p><a href="blog-details.html">Ducimus magni eveniet sit doloremque molestiae alias mollitia vitae.</a></p>
+            <h5 class="text-center" style="margin-top: 15px;">Mestre de Cuzinha</h5>
           </div>
         </div>
       </div>

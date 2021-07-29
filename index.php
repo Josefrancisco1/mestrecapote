@@ -38,33 +38,33 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Mestre <em>Capote</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>Mestre <em>Capote</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home
+                    <a class="nav-link" href="index.php">Home
                       <span class="sr-only">(current)</span>
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="book-table.html">Encomendar</a></li>
+                <li class="nav-item"><a class="nav-link" href="book-table.php">Encomendar</a></li>
 
-                <li class="nav-item"><a class="nav-link" href="menu.html">Pratos</a></li>
+                <li class="nav-item"><a class="nav-link" href="menu.php">Pratos</a></li>
 
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
                     
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="about-us.html">Sobre Nós</a>
-                      <a class="dropdown-item" href="blog.html">Blog</a>
-                      <a class="dropdown-item" href="testimonials.html">Equipe</a>
+                      <a class="dropdown-item" href="about-us.php">Sobre Nós</a>
+                      <a class="dropdown-item" href="blog.php">Blog</a>
+                      <a class="dropdown-item" href="testimonials.php">Equipe</a>
                     </div>
                 </li>
                 
-                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -107,9 +107,9 @@
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.html"><img src="assets/images/other-1-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/images/other-1-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.html"><h4>Weddings</h4></a>
+                <a href="book-table.php"><h4>Weddings</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -118,9 +118,9 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.html"><img src="assets/images/other-2-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/images/other-2-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.html"><h4>Birthdays</h4></a>
+                <a href="book-table.php"><h4>Birthdays</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -129,9 +129,9 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.html"><img src="assets/images/other-3-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/images/other-3-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.html"><h4>Anniversaries</h4></a>
+                <a href="book-table.php"><h4>Anniversaries</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -158,7 +158,7 @@
                 <li><a href="#">It aquecorporis nulla aspernatur</a></li>
                 <li><a href="#">Corporis, omnis doloremque</a></li>
               </ul>
-              <a href="about-us.html" class="filled-button">Read More</a>
+              <a href="about-us.php" class="filled-button">Read More</a>
             </div>
           </div>
           <div class="col-md-6">
@@ -177,16 +177,16 @@
             <div class="section-heading">
               <h2>Latest blog posts</h2>
 
-              <a href="blog.html">read more <i class="fa fa-angle-right"></i></a>
+              <a href="blog.php">read more <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="blog-details.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
+                <h4><a href="blog-details.php">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
 
                 <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
               </div>
@@ -194,10 +194,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="blog-details.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
+                <h4><a href="blog-details.php">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
 
                 <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
               </div>
@@ -205,10 +205,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="blog-details.html" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="blog-details.html">Aperiam modi voluptatum fuga officiis cumque</a></h4>
+                <h4><a href="blog-details.php">Aperiam modi voluptatum fuga officiis cumque</a></h4>
 
                 <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
               </div>
@@ -225,7 +225,7 @@
             <div class="section-heading">
               <h2>Happy Clients</h2>
 
-              <a href="testimonials.html">read more <i class="fa fa-angle-right"></i></a>
+              <a href="testimonials.php">read more <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
           <div class="col-md-12">
@@ -307,7 +307,7 @@
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
                 </div>
                 <div class="col-lg-4 col-md-6 text-right">
-                  <a href="contact.html" class="filled-button">Contact Us</a>
+                  <a href="contact.php" class="filled-button">Contact Us</a>
                 </div>
               </div>
             </div>
