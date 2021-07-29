@@ -131,17 +131,9 @@ include_once("include/header.php");
       </div>
     </div>
 
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="inner-content">
-              <p>Copyright © 2020 Company Name - Template by: <a href="https://www.phpjabbers.com/">PHPJabbers.com</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
+    <?php
+   include_once("include/footer.php");
+   ?>
 
     <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -209,15 +201,3 @@ include_once("include/header.php");
       </div>
     </div>
 
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-
-    <!-- Additional Scripts -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/owl.js"></script>
-  </body>
-
-</html>
