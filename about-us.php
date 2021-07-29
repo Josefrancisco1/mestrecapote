@@ -9,8 +9,8 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>about us</h4>
-              <h2>our restaurant</h2>
+              <h4>Quem somos</h4>
+              <h2>Mestre Capote</h2>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Lorem ipsum dolor sit amet consectetur adipisicing</h2>
+              <h2>Conheça-nos e descubrirás o caminho dos melhores sabores</h2>
             </div>
           </div>
           <div class="col-md-6">
@@ -33,7 +33,7 @@ include_once("include/header.php");
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <h4>Lorem ipsum dolor sit amet.</h4>
+              <h4>Dono da empresa</h4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
               <ul class="social-icons">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -53,10 +53,10 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Lorem ipsum dolor sit amet.</h2>
+              <h2>Fundação da empresa</h2>
             </div>
 
-            <h5>Lorem ipsum dolor sit amet.</h5>
+            <h5>A empresa mestre Capote</h5>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
 

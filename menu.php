@@ -9,7 +9,7 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>Lorem ipsum dolor sit amet</h4>
+              <h4>Nossos melhores pratos</h4>
               <h2>Menu</h2>
             </div>
           </div>
@@ -33,7 +33,7 @@ include_once("include/header.php");
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="#"><img src="assets/img/cocada.PNG" alt="" style="width: 250px;"></a>
+              <a href="#"><img src="assets/img/cocada.jpg" alt="" ></a>
               <div class="down-content">
                 <a href="#"><h4>Cocada</h4></a>
                 <h6>AOA 1500,00 </h6>
@@ -66,7 +66,7 @@ include_once("include/header.php");
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="#"><img src="assets/img/bolos.jpg" alt=""></a>
+              <a href="#"><img src="assets/img/boloseco.jpg" alt=""></a>
               <div class="down-content">
                 <a href="#"><h4>Bolos Secos</h4></a>
                 <h6>AOA 1.000,00</h6>
@@ -77,7 +77,7 @@ include_once("include/header.php");
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="#"><img src="assets/images/product-6-370x270.jpg" alt=""></a>
+              <a href="#"><img src="assets/img/arroz.jpg" alt=""></a>
               <div class="down-content">
                 <a href="#"><h4>Arroz</h4></a>
                 <h6>AOA 10.000,00</h6>

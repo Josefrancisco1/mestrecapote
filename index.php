@@ -38,7 +38,7 @@ include_once("include/header.php");
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.php"><img src="assets/images/other-1-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/img/pagi1.jpg" alt=""></a>
               <div class="down-content">
                 <a href="book-table.php"><h4>Casamentos</h4></a>
 
@@ -49,7 +49,7 @@ include_once("include/header.php");
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.php"><img src="assets/images/other-2-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/img/pagi2.jpg" alt=""></a>
               <div class="down-content">
                 <a href="book-table.php"><h4>Aniversários</h4></a>
 
@@ -60,7 +60,7 @@ include_once("include/header.php");
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="book-table.php"><img src="assets/images/other-3-370x270.jpg" alt=""></a>
+              <a href="book-table.php"><img src="assets/img/pagi3.jpg" alt=""></a>
               <div class="down-content">
                 <a href="book-table.php"><h4>Festas</h4></a>
 
@@ -82,14 +82,15 @@ include_once("include/header.php");
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <p>Lorem ipsum dolor sit amet, <a href="#">consectetur</a> adipisicing elit. Explicabo, esse consequatur alias repellat in excepturi inventore ad <a href="#">asperiores</a> tempora ipsa. Accusantium tenetur voluptate labore aperiam molestiae rerum excepturi minus in pariatur praesentium, corporis, aliquid dicta.</p>
+              <p>
+De uma forma geral, o conceito é usado relativamente à elaboração de produtos alimentares doces. Entre os ingredientes mais usados na pastelaria encontra-se o açúcar, o chocolate, a baunilha, as natas, a farinha e os ovos.</p>
               <ul class="featured-list">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur an adipisicing elit</a></li>
-                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
-                <li><a href="#">Corporis, omnis doloremque</a></li>
+                <li><a href="#">Nossa melhor qualidade</a></li>
+                <li><a href="#">Sabores inrresistiveis</a></li>
+                <li><a href="#">Produzimos para se e para sua familia</a></li>
+                <li><a href="#">Efectuamos encomenda de todos os nossos produtos</a></li>
               </ul>
-              <a href="about-us.php" class="filled-button">Read More</a>
+              <a href="about-us.php" class="filled-button">Saber mais</a>
             </div>
           </div>
           <div class="col-md-6">
@@ -106,9 +107,9 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Latest blog posts</h2>
+              <h2>Ultimas postagens</h2>
 
-              <a href="blog.php">read more <i class="fa fa-angle-right"></i></a>
+              <a href="blog.php">Saber mais<i class="fa fa-angle-right"></i></a>
             </div>
           </div>
 
@@ -154,9 +155,9 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Happy Clients</h2>
+              <h2>Clientes fatisfeitos</h2>
 
-              <a href="testimonials.php">read more <i class="fa fa-angle-right"></i></a>
+              <a href="testimonials.php">Equipe<i class="fa fa-angle-right"></i></a>
             </div>
           </div>
           <div class="col-md-12">
@@ -234,11 +235,11 @@ include_once("include/header.php");
             <div class="inner-content">
               <div class="row">
                 <div class="col-md-8">
-                  <h4>Lorem ipsum dolor sit amet, consectetur adipisicing.</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
+                  <h4>A sua felicidade é o nosso objectivo</h4>
+                  <p>Para mais informações sobre o mestre Capote basta entrar em contacto connosco</p>
                 </div>
                 <div class="col-lg-4 col-md-6 text-right">
-                  <a href="contact.php" class="filled-button">Contact Us</a>
+                  <a href="contact.php" class="filled-button">Contacta nos</a>
                 </div>
               </div>
             </div>

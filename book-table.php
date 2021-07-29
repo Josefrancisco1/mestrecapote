@@ -1,5 +1,6 @@
 <?php
 include_once("include/header.php");
+session_start();
 ?>
 
 
@@ -27,7 +28,7 @@ include_once("include/header.php");
           </div>
           <div class="col-md-8">
             <div class="contact-form">
-              <form id="contact" action="" method="post">
+              <form action="crud/criar.php" method="post">
                 <div class="row">
                   <!--
                   <div class="col-sm-6">
@@ -44,22 +45,22 @@ include_once("include/header.php");
 
                   <div class="col-sm-6">
                     <fieldset>
-                      <select class="form-control">
+                      <select class="form-control" name="quantidade">
                        <option value="">Quantidade</option>
-                       <option value="">1</option>
-                       <option value="">2</option>
-                       <option value="">3</option>
-                       <option value="">4</option>
-                       <option value="">5</option>
-                       <option value="">6</option>
-                       <option value="">7</option>
+                       <option value="1">1</option>
+                       <option value="2">2</option>
+                       <option value="3">3</option>
+                       <option value="4">4</option>
+                       <option value="5">5</option>
+                       <option value="6">6</option>
+                       <option value="7">7</option>
                       </select>
                     </fieldset>
                   </div>
 
                   <div class="col-sm-6">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Nome completo" required="">
+                      <input name="nome" type="text" class="form-control" id="name" placeholder="Nome completo" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
@@ -67,14 +68,19 @@ include_once("include/header.php");
                       <input name="email" type="text" class="form-control" id="email" placeholder="Endereço de E-Mail" required="">
                     </fieldset>
                   </div>
-                  <div class="col-lg-12">
+                  <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Descrição" required=""></textarea>
+                      <input name="localizacao" type="text" class="form-control" id="email" placeholder="Localização" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Submeter</button>
+                      <textarea name="descricao" rows="6" class="form-control" id="message" placeholder="Descrição" required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button type="submit" name="pedido" class="filled-button">Submeter</button>
                     </fieldset>
                   </div>
                 </div>
