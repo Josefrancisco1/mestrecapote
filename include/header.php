@@ -36,35 +36,35 @@
 
     <!-- Header -->
     <header class="">
-      <nav class="navbar navbar-expand-lg">
+      <nav class="navbar navbar-expand-lg " style="background-color: #eee;"> 
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>Mestre <em>Capote</em></h2></a>
+          <a class="navbar-brand" href="index.php"><img src="assets/img/logotipo.png" alt="" style="width: 160px;"></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" style="color: #000;">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">INICIO
+                    <a class="nav-link" href="index.php" style="color: #000;">INICIO
                       <span class="sr-only">(current)</span>
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="book-table.php">ENCOMENDAR</a></li>
+                <li class="nav-item"><a class="nav-link" href="book-table.php" style="color: #000;">ENCOMENDAR</a></li>
 
-                <li class="nav-item"><a class="nav-link" href="menu.php">MENUS</a></li>
+                <li class="nav-item"><a class="nav-link" href="menu.php" style="color: #000;">MENUS</a></li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOVIDADES</a>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="color: #000;">NOVIDADES</a>
                     
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="about-us.php">SOBRE NÓS</a>
-                      <a class="dropdown-item" href="blog.php">BLOG</a>
-                      <a class="dropdown-item" href="testimonials.php">EQUIPE</a>
+                      <a class="dropdown-item" href="about-us.php" style="color: #000;">SOBRE NÓS</a>
+                      <a class="dropdown-item" href="blog.php" style="color: #000;">BLOG</a>
+                      <a class="dropdown-item" href="testimonials.php" style="color: #000;">EQUIPE</a>
                     </div>
                 </li>
                 
-                <li class="nav-item"><a class="nav-link" href="contact.php">CONTACTA-NOS</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.php" style="color: #000;">CONTACTA-NOS</a></li>
             </ul>
           </div>
         </div>

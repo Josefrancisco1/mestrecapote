@@ -95,14 +95,14 @@ De uma forma geral, o conceito é usado relativamente à elaboração de produto
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="assets/images/about-1-570x350.jpg" alt="">
+              <img src="assets/img/arroz.jpg" alt="">
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="services" style="background-image: url(assets/images/other-image-fullscren-1-1920x900.jpg);" >
+    <div class="services" style="background-image: url(assets/imges/blog-1-370x270.jpg);" >
       <div class="container">
         <div class="row">
           <div class="col-md-12">
