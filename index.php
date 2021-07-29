@@ -8,20 +8,20 @@ include_once("include/header.php");
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
-            <h4>Find your car today!</h4>
-            <h2>Lorem ipsum dolor sit amet</h2>
+            <h4>Seja muito bem vindo ao</h4>
+            <h2>Mestre Capote</h2>
           </div>
         </div>
         <div class="banner-item-02">
           <div class="text-content">
-            <h4>Fugiat Aspernatur</h4>
-            <h2>Laboriosam reprehenderit ducimus</h2>
+            <h4>Agora disponivel para se e para sua família</h4>
+            <h2>Produtos de alta qualidade</h2>
           </div>
         </div>
         <div class="banner-item-03">
           <div class="text-content">
-            <h4>Saepe Omnis</h4>
-            <h2>Quaerat suscipit unde minus dicta</h2>
+            <h4>Todos os teus gosto você encontras aqui no</h4>
+            <h2>Mestre Capote</h2>
           </div>
         </div>
       </div>
@@ -33,14 +33,14 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Events</h2>
+              <h2>Eventos</h2>
             </div>
           </div>
           <div class="col-md-4">
             <div class="product-item">
               <a href="book-table.php"><img src="assets/images/other-1-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.php"><h4>Weddings</h4></a>
+                <a href="book-table.php"><h4>Casamentos</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -51,7 +51,7 @@ include_once("include/header.php");
             <div class="product-item">
               <a href="book-table.php"><img src="assets/images/other-2-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.php"><h4>Birthdays</h4></a>
+                <a href="book-table.php"><h4>Aniversários</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -62,7 +62,7 @@ include_once("include/header.php");
             <div class="product-item">
               <a href="book-table.php"><img src="assets/images/other-3-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="book-table.php"><h4>Anniversaries</h4></a>
+                <a href="book-table.php"><h4>Festas</h4></a>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
               </div>
@@ -77,7 +77,7 @@ include_once("include/header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>About Us</h2>
+              <h2>Informações</h2>
             </div>
           </div>
           <div class="col-md-6">
